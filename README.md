@@ -12,7 +12,7 @@ Holla!!! I’m a Full time Software Developer👩‍💻, with 3 years of Experi
           -  Focuses on solving a particular problem or implementing a specific algorithm🗒️.
           - May be involved in the entire software development life cycle, from conception to deployment💻
           
-           **What I do**
+           What I do
 
           • Code Validator🧙: Ensuring that every line of code is spell-checked and perfected for a flawless performance.
           • Focuses on writing code, often with a specific programming language or technology.
