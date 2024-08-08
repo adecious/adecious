@@ -5,26 +5,26 @@ Software Developer and Web3 Developer
 -------------------------------------
 
 Holla!!! I’m a Full time Software Developer👩‍💻, with 3 years of Experience who is open to Explore World of GitHub and Encompasses a broader range of responsibilities, including:
-          -  Designing and architecting software solutions.
-          -  Writing code, testing, and debugging.
-          -  Collaborating with teams, understanding requirements, and ensuring software meets user needs🛠️.
-          -  Considering scalability, maintainability, and performance⚙️.
-          -  Focuses on solving a particular problem or implementing a specific algorithm🗒️.
-          - May be involved in the entire software development life cycle, from conception to deployment💻
-          
-           What I do
+- Designing and architecting software solutions.
+- Writing code, testing, and debugging.
+- Collaborating with teams, understanding requirements, and ensuring software meets user needs🛠️.
+- Considering scalability, maintainability, and performance⚙️.
+- Focuses on solving a particular problem or implementing a specific algorithm🗒️.
+- May be involved in the entire software development life cycle, from conception to deployment💻
 
-          • Code Validator🧙: Ensuring that every line of code is spell-checked and perfected for a flawless performance.
-          • Focuses on writing code, often with a specific programming language or technology.
-          • Typically works on a specific part of a project, like a feature or a module.
-          • Stay up-to-date with market trends, news, and developments as regarding Web3🚨.
-          • Invest in cryptocurrencies, either personally or through trading📈
-          • Explore various blockchain projects, tokens, and use cases.
-          • Engage with online communities, forums, and social media to discuss crypto-related topics.
-          • Attend conferences, meetups, and webinars to network and learn from industry experts.
-          • Advocate for mainstream adoption and education about cryptocurrencies.
-          • Experiment with decentralized applications (dApps), wallets, and other crypto-related tools.
-          • Continuously learn about new technologies, such as layer 2 scaling solutions, DeFi, NFTs, and more🚀.
+  # What I do
+
+  - Code Validator🧙: Ensuring that every line of code is spell-checked and perfected for a flawless performance.
+  - Focuses on writing code, often with a specific programming language or technology.
+  - Typically works on a specific part of a project, like a feature or a module.
+  - Stay up-to-date with market trends, news, and developments as regarding Web3🚨.
+  - Invest in cryptocurrencies, either personally or through trading📈
+  - Explore various blockchain projects, tokens, and use cases.
+  - Engage with online communities, forums, and social media to discuss crypto-related topics.
+  - Attend conferences, meetups, and webinars to network and learn from industry experts.
+  - Advocate for mainstream adoption and education about cryptocurrencies.
+  - Experiment with decentralized applications (dApps), wallets, and other crypto-related tools.
+  - Continuously learn about new technologies, such as layer 2 scaling solutions, DeFi, NFTs, and more🚀.
 
 * ✉️  You can contact me at [olusolaadebesin0@gmail.com](mailto:olusolaadebesin0@gmail.com)
 * 🤝  I'm open to collaborations, ready to learn and explore new web3 technology and vast varieties
