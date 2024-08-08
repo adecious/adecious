@@ -5,12 +5,13 @@ Software Developer and Web3 Developer
 -------------------------------------
 
 Holla!!! I’m a Full time Software Developer👩‍💻, with 3 years of Experience who is open to Explore World of GitHub and Encompasses a broader range of responsibilities, including:
-- Designing and architecting software solutions.
-- Writing code, testing, and debugging.
-- Collaborating with teams, understanding requirements, and ensuring software meets user needs🛠️.
-- Considering scalability, maintainability, and performance⚙️.
-- Focuses on solving a particular problem or implementing a specific algorithm🗒️.
-- May be involved in the entire software development life cycle, from conception to deployment💻
+
+ - Designing and architecting software solutions.
+ - Writing code, testing, and debugging.
+ - Collaborating with teams, understanding requirements, and ensuring software meets user needs🛠️.
+ - Considering scalability, maintainability, and performance⚙️.
+ - Focuses on solving a particular problem or implementing a specific algorithm🗒️.
+ - May be involved in the entire software development life cycle, from conception to deployment💻
 
   # What I do
 
